@@ -23,6 +23,7 @@ To ensure efficient management of concurrent accesses to data structures, it is 
 ## Requirements
 
 - C++
+- Ubuntu
 
 ## Structure
 
