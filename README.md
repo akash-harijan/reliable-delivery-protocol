@@ -1,6 +1,6 @@
 # UDP-based Client-Server File Transfer with Reliable Delivery Protocol (RDP)
 
-This project implements a UDP-based client-server architecture for simple file transfer. The goal is to manage the transfer of file data from the client to the server using only a UDP channel with unreliable delivery. The project aims to enhance understanding of common transport layer protocol mechanisms, such as fragmentation, error detection and/or correction, and retransmission. This is achieved by constructing a Reliable Delivery Protocol (RDP) on top of UDP.
+This project implements a UDP-based client-server architecture for simple file transfer. The goal is to manage the transfer of file data from the client to the server using only a UDP channel with reliable delivery. The project aims to enhance understanding of common TCP/IP Model protocol mechanisms, also they way  fragmentation, error detection and/or correction, and retransmission works in TCP/IP. This is achieved by constructing a Reliable Delivery Protocol (RDP) on top of UDP.
 
 Key Features:
 
